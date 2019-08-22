@@ -26,10 +26,10 @@ body{
 }
 
 #section{
-    width:500px;
+    width:495px;
     height:250px;
     float:left;
-    margin-left:250px;
+    margin-left:255px;
     font-family:"Arial";
     color:grey;
     font-size:"18px"
@@ -42,7 +42,7 @@ body{
     margin-left:25px;
     margin-right:auto;
     font-family:"Arial";
-    color:white;
+    color:#ebebeb;
     font-size:"18px";
     padding:25px;
 }
@@ -100,13 +100,13 @@ p{
 }
 
 #aside{
-    width:500px;
+    width:495px;
     height:250px;
     border-width:1px;
     float:right;
     margin-left:auto;
     text-align: center;
-    margin-right:250px;
+    margin-right:255px;
     font-family:"Arial";
     color:grey;
     font-size:"18px"
